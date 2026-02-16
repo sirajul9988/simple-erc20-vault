@@ -1,0 +1,8 @@
+{
+  "name": "simple-erc20-vault",
+  "version": "1.0.0",
+  "description": "Minimalist DeFi Vault in Solidity",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
